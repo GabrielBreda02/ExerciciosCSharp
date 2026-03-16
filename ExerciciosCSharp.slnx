@@ -5,4 +5,5 @@
   <Project Path="Exec4/Exec4.csproj" />
   <Project Path="Exec5/Exec5.csproj" />
   <Project Path="Exec6/Exec6.csproj" />
+  <Project Path="Exec7/Exec7.csproj" />
 </Solution>
