@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Exec1/Exec1.csproj" />
   <Project Path="Exec10/Exec10.csproj" />
+  <Project Path="Exec11/Exec11.csproj" />
   <Project Path="Exec2/Exec2.csproj" />
   <Project Path="Exec3/Exec3.csproj" />
   <Project Path="Exec4/Exec4.csproj" />
