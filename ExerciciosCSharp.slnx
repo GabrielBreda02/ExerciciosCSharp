@@ -7,4 +7,5 @@
   <Project Path="Exec6/Exec6.csproj" />
   <Project Path="Exec7/Exec7.csproj" />
   <Project Path="Exec8/Exec8.csproj" />
+  <Project Path="Exec9/Exec9.csproj" />
 </Solution>
