@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="exec1/exec1.csproj" />
+  <Project Path="exec10/exec10.csproj" />
+  <Project Path="exec2/exec2.csproj" />
+  <Project Path="exec3/exec3.csproj" />
+  <Project Path="exec4/exec4.csproj" />
+  <Project Path="exec5/exec5.csproj" />
+  <Project Path="exec6/exec6.csproj" />
+  <Project Path="exec7/exec7.csproj" />
+  <Project Path="exec8/exec8.csproj" />
+  <Project Path="exec9/exec9.csproj" />
+</Solution>
